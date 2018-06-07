@@ -1,0 +1,8 @@
+**/*.log
+target
+/.idea
+/.idea_modules
+/.classpath
+project
+/.settings
+shared/shared.iml
